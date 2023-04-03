@@ -10,13 +10,15 @@
   "license": "MIT",
   "files": ["dist"],
   "type": "module",
+  "module": "./dist/router.js",
   "exports": {
     ".": {
       "import": "./dist/router.js",
+      "require": "./dist/router.cjs",
       "types": "./dist/router.d.ts"
     }
   },
-  "main": "./dist/router.js",
+  "main": "./dist/router.cjs",
   "types": "./dist/router.d.ts",
   "scripts": {
     "build": "tsc && vite build",

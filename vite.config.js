@@ -6,7 +6,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: resolve(__dirname, 'src/router.ts'),
-      formats: ['es'],
+      formats: ['es', 'cjs'],
       fileName: 'router'
     },
   },
