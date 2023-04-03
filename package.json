@@ -2,6 +2,10 @@
   "name": "@toyokumo/fos-router",
   "version": "1.0.0",
   "repository": "git://github.com/toyokumo/fos-router.git",
+  "keywords": [
+    "router",
+    "symfony"
+  ],
   "author": "Toyokumo, Inc.",
   "license": "MIT",
   "files": ["dist"],
