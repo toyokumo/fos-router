@@ -1,0 +1,26 @@
+{
+  "name": "@toyokumo/fos-router",
+  "version": "1.0.0",
+  "repository": "git://github.com/toyokumo/fos-router.git",
+  "author": "Toyokumo, Inc.",
+  "license": "MIT",
+  "files": ["dist"],
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./dist/router.js",
+      "types": "./dist/router.d.ts"
+    }
+  },
+  "main": "./dist/router.js",
+  "types": "./dist/router.d.ts",
+  "scripts": {
+    "build": "tsc && vite build",
+    "prepublishOnly": "pnpm install && pnpm run build"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3",
+    "vite": "^4.1.0",
+    "vite-plugin-dts": "^2.1.0"
+  }
+}
