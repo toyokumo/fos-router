@@ -11,7 +11,9 @@
   ],
   "author": "Toyokumo, Inc.",
   "license": "MIT",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "type": "module",
   "module": "./dist/router.js",
   "exports": {
