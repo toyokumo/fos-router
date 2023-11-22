@@ -2,7 +2,7 @@
   "name": "@toyokumo/fos-router",
   "version": "1.0.3",
   "engines": {
-    "node": ">=16"
+    "node": ">=18"
   },
   "repository": "git://github.com/toyokumo/fos-router.git",
   "keywords": [
