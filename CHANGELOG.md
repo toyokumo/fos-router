@@ -1,5 +1,7 @@
 # Changelog
 
+### [1.0.4](https://github.com/toyokumo/fos-router/compare/v1.0.3...v1.0.4) (2024-04-02)
+
 ### [1.0.3](https://github.com/toyokumo/fos-router/compare/v1.0.2...v1.0.3) (2023-07-10)
 
 ### [1.0.2](https://github.com/toyokumo/fos-router/compare/v1.0.1...v1.0.2) (2023-04-03)
