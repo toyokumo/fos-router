@@ -1,6 +1,6 @@
 # @toyokumo/fos-router
 
-This is a npm package based on the [js router]((https://github.com/FriendsOfSymfony/FOSJsRoutingBundle/blob/3.2.1/Resources/js/router.ts)) of [FOSJsRoutingBundle](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle).
+This is a npm package based on the [js router]((https://github.com/FriendsOfSymfony/FOSJsRoutingBundle/blob/3.5.0/Resources/js/router.ts)) of [FOSJsRoutingBundle](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle).
 The purpose is to be able to install the js router of FOSJsRoutingBundle without PHP dependency.
 
 ## Usage

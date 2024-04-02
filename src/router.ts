@@ -1,6 +1,6 @@
 /*
  * This file was copied from FOSJsRoutingBundle.
- * https://github.com/FriendsOfSymfony/FOSJsRoutingBundle/blob/3.2.1/Resources/js/router.ts
+ * https://github.com/FriendsOfSymfony/FOSJsRoutingBundle/blob/3.5.0/Resources/js/router.ts
  */
 export interface RouteDefaults {
   [index: string]: string | null;
